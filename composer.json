@@ -1,0 +1,16 @@
+{
+    "name": "xxggabriel/blockip",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Gabriel Oliveira",
+            "email": "gabrieloliveradesouza9@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BlockIp\\" : "src\\"
+        }
+    }
+}
